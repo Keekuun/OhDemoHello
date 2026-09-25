@@ -6,6 +6,8 @@
 **/*.hap
 **/*.app
 /.codegenie
+/docs/.vitepress/dist
+/docs/.vitepress/cache
 **/build
 /.hvigor
 .cxx

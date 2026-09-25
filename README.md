@@ -13,7 +13,7 @@
 | **高级** | [09 网络请求](docs/stage3-senior/09-网络请求与数据.md) · [10 存储数据库](docs/stage3-senior/10-本地存储与数据库.md) · [11 权限安全](docs/stage3-senior/11-权限与安全.md) · [12 动画手势](docs/stage3-senior/12-动画与手势.md) | 能做出完整功能 |
 | **深入** | [13 生命周期](docs/stage4-expert/13-生命周期与沉浸式.md) · [14 深色模式](docs/stage4-expert/14-主题与深色模式.md) · [15 性能优化](docs/stage4-expert/15-性能优化.md) · [16 测试发布](docs/stage4-expert/16-测试签名与发布.md) | 能发布上架 |
 
-👉 从 [docs/README.md 学习路线总览](docs/README.md) 开始。
+👉 从 [docs/learning-path.md 学习路线总览](docs/learning-path.md) 开始。
 
 ## 🖥️ Electron 鸿蒙开发（PC 端）
 
