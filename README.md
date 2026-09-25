@@ -15,6 +15,20 @@
 
 👉 从 [docs/README.md 学习路线总览](docs/README.md) 开始。
 
+## 🖥️ Electron 鸿蒙开发（PC 端）
+
+想用 HTML/CSS/JS 开发**鸿蒙 PC** 应用，或把存量 Electron 应用迁移到鸿蒙？看这套深入研究文档（基于 [openharmony-sig/electron](https://gitcode.com/openharmony-sig/electron) 官方适配项目）：
+
+| 篇章 | 内容 |
+|------|------|
+| [01 认识鸿蒙 Electron](docs/electron-harmony/01-认识鸿蒙Electron.md) | 架构原理（libelectron + libadapter 适配层）、与桌面版差异、能力边界 |
+| [02 环境搭建与运行](docs/electron-harmony/02-环境搭建与运行.md) | 预编译包/源码编译两条路线、工程结构、签名、权限 |
+| [03 开发实战与适配要点](docs/electron-harmony/03-开发实战与适配要点.md) | 入口模板、必关硬件加速、单窗口策略、沙箱路径、三方库适配 |
+| [04 报错速查与避坑指南](docs/electron-harmony/04-报错速查与避坑指南.md) | 白屏/801/napi_unwrap 等高频报错对照表 |
+| [05 技术选型对比](docs/electron-harmony/05-技术选型对比.md) | ArkTS vs Electron vs Qt vs Flutter，决策流程图 |
+
+👉 从 [docs/electron-harmony/README.md](docs/electron-harmony/README.md) 开始。
+
 ## 目录
 
 - [1. 项目概览](#1-项目概览)
