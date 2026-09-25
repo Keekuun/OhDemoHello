@@ -5,6 +5,8 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '鸿蒙百宝箱',
   description: 'HarmonyOS 开发学习文档：ArkTS 从入门到深入 + Electron 鸿蒙 PC 开发指南',
+  // GitHub Pages 项目站点子路径（本地 dev 不受影响）
+  base: process.env.VITEPRESS_BASE || '/',
   cleanUrls: true,
   lastUpdated: true,
 
