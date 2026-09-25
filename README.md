@@ -2,6 +2,19 @@
 
 > 基于 HarmonyOS ArkTS + ArkUI 的全功能演示应用，涵盖 UI 组件、表单、表格、弹窗、权限管理等核心场景。
 
+## 📚 鸿蒙开发学习文档
+
+本项目配套一套**从入门到深入**的学习教程（在 `docs/` 目录），全部结合本项目真实代码讲解：
+
+| 阶段 | 篇章 | 目标 |
+|------|------|------|
+| **入门** | [01 环境搭建](docs/stage1-beginner/01-环境搭建与第一个App.md) · [02 ArkTS 速成](docs/stage1-beginner/02-ArkTS语言速成.md) · [03 声明式 UI](docs/stage1-beginner/03-声明式UI思维.md) · [04 项目结构](docs/stage1-beginner/04-看懂项目结构.md) | 能跑起来、能改界面 |
+| **进阶** | [05 组件大全](docs/stage2-advanced/05-常用组件大全.md) · [06 状态管理](docs/stage2-advanced/06-状态管理详解.md) · [07 路由跳转](docs/stage2-advanced/07-路由与页面跳转.md) · [08 布局实战](docs/stage2-advanced/08-布局实战.md) | 能独立写页面 |
+| **高级** | [09 网络请求](docs/stage3-senior/09-网络请求与数据.md) · [10 存储数据库](docs/stage3-senior/10-本地存储与数据库.md) · [11 权限安全](docs/stage3-senior/11-权限与安全.md) · [12 动画手势](docs/stage3-senior/12-动画与手势.md) | 能做出完整功能 |
+| **深入** | [13 生命周期](docs/stage4-expert/13-生命周期与沉浸式.md) · [14 深色模式](docs/stage4-expert/14-主题与深色模式.md) · [15 性能优化](docs/stage4-expert/15-性能优化.md) · [16 测试发布](docs/stage4-expert/16-测试签名与发布.md) | 能发布上架 |
+
+👉 从 [docs/README.md 学习路线总览](docs/README.md) 开始。
+
 ## 目录
 
 - [1. 项目概览](#1-项目概览)
