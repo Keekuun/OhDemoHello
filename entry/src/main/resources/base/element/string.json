@@ -1,0 +1,284 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "鸿蒙百宝箱"
+    },
+    {
+      "name": "app_title",
+      "value": "鸿蒙百宝箱"
+    },
+    {
+      "name": "app_subtitle",
+      "value": "探索 ArkTS 的无限可能"
+    },
+    {
+      "name": "welcome_title",
+      "value": "欢迎来到鸿蒙百宝箱"
+    },
+    {
+      "name": "welcome_desc",
+      "value": "点击卡片切换问候语，体验原生开发之美"
+    },
+    {
+      "name": "counter_title",
+      "value": "计数器"
+    },
+    {
+      "name": "features_title",
+      "value": "功能特性"
+    },
+    {
+      "name": "settings_title",
+      "value": "设置"
+    },
+    {
+      "name": "progress_title",
+      "value": "加载进度"
+    },
+    {
+      "name": "btn_start",
+      "value": "开始加载"
+    },
+    {
+      "name": "btn_reset",
+      "value": "重置"
+    },
+    {
+      "name": "btn_confirm",
+      "value": "确认"
+    },
+    {
+      "name": "setting_notification",
+      "value": "消息通知"
+    },
+    {
+      "name": "setting_autoplay",
+      "value": "自动播放"
+    },
+    {
+      "name": "setting_darkmode",
+      "value": "深色模式"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_discover",
+      "value": "发现"
+    },
+    {
+      "name": "tab_message",
+      "value": "消息"
+    },
+    {
+      "name": "tab_components",
+      "value": "组件"
+    },
+    {
+      "name": "tab_profile",
+      "value": "我的"
+    },
+    {
+      "name": "discover_title",
+      "value": "发现"
+    },
+    {
+      "name": "discover_search_hint",
+      "value": "搜索感兴趣的内容"
+    },
+    {
+      "name": "discover_categories",
+      "value": "热门分类"
+    },
+    {
+      "name": "discover_hot",
+      "value": "热门推荐"
+    },
+    {
+      "name": "discover_ranking",
+      "value": "排行榜"
+    },
+    {
+      "name": "message_title",
+      "value": "消息"
+    },
+    {
+      "name": "tools_title",
+      "value": "实用工具"
+    },
+    {
+      "name": "profile_title",
+      "value": "我的"
+    },
+    {
+      "name": "profile_name",
+      "value": "HarmonyOS 开发者"
+    },
+    {
+      "name": "profile_desc",
+      "value": "ID: 88888888 · 查看主页"
+    },
+    {
+      "name": "profile_stat_posts",
+      "value": "动态"
+    },
+    {
+      "name": "profile_stat_followers",
+      "value": "粉丝"
+    },
+    {
+      "name": "profile_stat_following",
+      "value": "关注"
+    },
+    {
+      "name": "profile_menu_favorites",
+      "value": "我的收藏"
+    },
+    {
+      "name": "profile_menu_history",
+      "value": "浏览历史"
+    },
+    {
+      "name": "profile_menu_orders",
+      "value": "我的订单"
+    },
+    {
+      "name": "profile_menu_wallet",
+      "value": "钱包"
+    },
+    {
+      "name": "profile_menu_help",
+      "value": "帮助与反馈"
+    },
+    {
+      "name": "profile_menu_about",
+      "value": "关于我们"
+    },
+    {
+      "name": "detail_title",
+      "value": "详情"
+    },
+    {
+      "name": "perm_camera_reason",
+      "value": "用于拍照和录像功能"
+    },
+    {
+      "name": "perm_mic_reason",
+      "value": "用于录音和语音输入功能"
+    },
+    {
+      "name": "perm_media_reason",
+      "value": "用于读写媒体文件"
+    },
+    {
+      "name": "perm_location_reason",
+      "value": "用于获取地理位置信息"
+    },
+    {
+      "name": "perm_contacts_reason",
+      "value": "用于读写联系人数据"
+    },
+    {
+      "name": "perm_calendar_reason",
+      "value": "用于读写日历事件"
+    },
+    {
+      "name": "perm_distributed_reason",
+      "value": "用于跨设备数据同步"
+    },
+    {
+      "name": "perm_bluetooth_reason",
+      "value": "用于访问蓝牙设备"
+    },
+    {
+      "name": "perm_internet_reason",
+      "value": "用于访问网络和加载网页内容"
+    },
+    {
+      "name": "about_title",
+      "value": "关于我们"
+    },
+    {
+      "name": "about_slogan",
+      "value": "一个应用，体验鸿蒙全部核心能力"
+    },
+    {
+      "name": "about_version",
+      "value": "版本号"
+    },
+    {
+      "name": "about_build",
+      "value": "构建号"
+    },
+    {
+      "name": "about_check_update",
+      "value": "检查更新"
+    },
+    {
+      "name": "about_update_latest",
+      "value": "当前已是最新版本"
+    },
+    {
+      "name": "about_privacy",
+      "value": "隐私政策"
+    },
+    {
+      "name": "about_terms",
+      "value": "用户服务协议"
+    },
+    {
+      "name": "about_feedback",
+      "value": "意见反馈"
+    },
+    {
+      "name": "about_copyright",
+      "value": "© 2026 OhDemo 团队 · 仅供学习交流"
+    },
+    {
+      "name": "about_official",
+      "value": "官方网站"
+    },
+    {
+      "name": "feedback_title",
+      "value": "意见反馈"
+    },
+    {
+      "name": "feedback_hint",
+      "value": "请描述你遇到的问题或建议…"
+    },
+    {
+      "name": "feedback_contact",
+      "value": "联系方式（选填）"
+    },
+    {
+      "name": "feedback_submit",
+      "value": "提交反馈"
+    },
+    {
+      "name": "feedback_success",
+      "value": "感谢反馈，我们会尽快处理"
+    },
+    {
+      "name": "feedback_empty",
+      "value": "请先填写反馈内容"
+    },
+    {
+      "name": "legal_privacy_title",
+      "value": "隐私政策"
+    },
+    {
+      "name": "legal_terms_title",
+      "value": "用户服务协议"
+    }
+  ]
+}

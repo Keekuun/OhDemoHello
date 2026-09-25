@@ -1,0 +1,92 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "page_background",
+      "value": "#181818"
+    },
+    {
+      "name": "primary_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "primary_light",
+      "value": "#1F1F2E"
+    },
+    {
+      "name": "card_background",
+      "value": "#222222"
+    },
+    {
+      "name": "text_primary",
+      "value": "#E6E6E6"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#AAAAAA"
+    },
+    {
+      "name": "text_hint",
+      "value": "#777777"
+    },
+    {
+      "name": "divider_color",
+      "value": "#333333"
+    },
+    {
+      "name": "success_color",
+      "value": "#36D372"
+    },
+    {
+      "name": "warning_color",
+      "value": "#FFB020"
+    },
+    {
+      "name": "danger_color",
+      "value": "#FF4D4F"
+    },
+    {
+      "name": "gradient_start",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "gradient_end",
+      "value": "#2575FC"
+    },
+    {
+      "name": "tab_bar_background",
+      "value": "#222222"
+    },
+    {
+      "name": "badge_color",
+      "value": "#FF4D4F"
+    },
+    {
+      "name": "banner_orange_start",
+      "value": "#FF9966"
+    },
+    {
+      "name": "banner_orange_end",
+      "value": "#FF5E62"
+    },
+    {
+      "name": "banner_green_start",
+      "value": "#43E97B"
+    },
+    {
+      "name": "banner_green_end",
+      "value": "#38D9A9"
+    },
+    {
+      "name": "banner_purple_start",
+      "value": "#A18CD1"
+    },
+    {
+      "name": "banner_purple_end",
+      "value": "#FBC2EB"
+    }
+  ]
+}

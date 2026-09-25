@@ -1,0 +1,56 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/jeek/.ohos/config/default_OhDemoHello_jMzUBYKKQzgmwY3W7qBVZ9o_gm9MOBg35w1LlXYXTyM=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B5B8222408261669453A0E6542D2DFE7D45747D2F7C384F6235D12105EF3DEDFE067C030A4F195E",
+          "profile": "/Users/jeek/.ohos/config/default_OhDemoHello_jMzUBYKKQzgmwY3W7qBVZ9o_gm9MOBg35w1LlXYXTyM=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/jeek/.ohos/config/default_OhDemoHello_jMzUBYKKQzgmwY3W7qBVZ9o_gm9MOBg35w1LlXYXTyM=.p12",
+          "storePassword": "0000001BD169DD0B90BA52CB9BE29B48D4332DBF019BBB049EE5556231A44485A3FC46AFD056C036B2EABA"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "26.0.0",
+        "compatibleSdkVersion": "26.0.0",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
