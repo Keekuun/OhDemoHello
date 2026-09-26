@@ -10,6 +10,11 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
 
+  // 栏目首页用 README.md 编写，构建时映射为 index.html，保证 /electron-harmony/ 可访问
+  rewrites: {
+    'electron-harmony/README.md': 'electron-harmony/index.md'
+  },
+
   themeConfig: {
     // 顶部导航
     nav: [
